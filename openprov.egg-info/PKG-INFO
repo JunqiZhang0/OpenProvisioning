@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: openprov
+Version: 0.0.1
+Summary: Open Provisioning RESTful API
+Home-page: https://github.com/JunqiZhang0/py-production-experiment
+Author: ccit
+Author-email: zhangforchat@gmail.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning

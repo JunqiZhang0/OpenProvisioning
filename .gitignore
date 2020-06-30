@@ -1,0 +1,8 @@
+testenv/
+__pycache__/
+example.sqlite
+build/
+dist/
+.vscode/
+*.pyc
+migrations/
